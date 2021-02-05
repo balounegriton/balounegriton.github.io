@@ -1,38 +1,76 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@font-face {
+  font-family: gotBold;
+  src: url(Gotham-Bold.otf);
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
+/* ////////////////////////// */
+body {
   min-height: 100vh;
+  min-height: -webkit-fill-available;
+}
+html {
+  height: -webkit-fill-available;
+}
+.box{
+height: 100vh;
+width: 100vw;
+}
+
+.box2{
+  height: 100vh;
+
+  }
+
+.black{
+  background: black
+}
+
+.container{
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+ 
+.cover{
+max-height: 100vh;
+min-width: 100vw;
+}
+
+.logo{
+  opacity: 1;
+  position: absolute;
+  top: 0;
+  width: 100px;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -ms-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
+.logoOff{
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  width: 100px;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -ms-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
+.texte{
+  font-family: gotBold;
   color: white;
+  position: absolute;
+  margin-top: -10vh;
 }
 
-.App-link {
-  color: #61dafb;
+.vide{
+ height:  100vh
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.intro{
+  width: 50vw;
 }
