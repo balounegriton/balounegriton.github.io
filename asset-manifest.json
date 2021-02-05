@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/wndrs/static/css/main.9fdf2061.chunk.css",
-    "main.js": "/wndrs/static/js/main.78fd7654.chunk.js",
-    "main.js.map": "/wndrs/static/js/main.78fd7654.chunk.js.map",
-    "runtime-main.js": "/wndrs/static/js/runtime-main.980c8fdd.js",
-    "runtime-main.js.map": "/wndrs/static/js/runtime-main.980c8fdd.js.map",
-    "static/js/2.1ea2f8b5.chunk.js": "/wndrs/static/js/2.1ea2f8b5.chunk.js",
-    "static/js/2.1ea2f8b5.chunk.js.map": "/wndrs/static/js/2.1ea2f8b5.chunk.js.map",
-    "static/js/3.beba9def.chunk.js": "/wndrs/static/js/3.beba9def.chunk.js",
-    "static/js/3.beba9def.chunk.js.map": "/wndrs/static/js/3.beba9def.chunk.js.map",
-    "index.html": "/wndrs/index.html",
-    "static/css/main.9fdf2061.chunk.css.map": "/wndrs/static/css/main.9fdf2061.chunk.css.map",
-    "static/js/2.1ea2f8b5.chunk.js.LICENSE.txt": "/wndrs/static/js/2.1ea2f8b5.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/wndrs/static/media/Gotham-Bold.f9a5c924.otf",
-    "static/media/cover1.ba891a4b.png": "/wndrs/static/media/cover1.ba891a4b.png",
-    "static/media/cover2.079a3dda.png": "/wndrs/static/media/cover2.079a3dda.png",
-    "static/media/cover3.51d39273.png": "/wndrs/static/media/cover3.51d39273.png",
-    "static/media/logo.b391fca8.png": "/wndrs/static/media/logo.b391fca8.png"
+    "main.css": "/static/css/main.81ab8b3f.chunk.css",
+    "main.js": "/static/js/main.78fd7654.chunk.js",
+    "main.js.map": "/static/js/main.78fd7654.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.641bf879.js",
+    "runtime-main.js.map": "/static/js/runtime-main.641bf879.js.map",
+    "static/js/2.1ea2f8b5.chunk.js": "/static/js/2.1ea2f8b5.chunk.js",
+    "static/js/2.1ea2f8b5.chunk.js.map": "/static/js/2.1ea2f8b5.chunk.js.map",
+    "static/js/3.beba9def.chunk.js": "/static/js/3.beba9def.chunk.js",
+    "static/js/3.beba9def.chunk.js.map": "/static/js/3.beba9def.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.81ab8b3f.chunk.css.map": "/static/css/main.81ab8b3f.chunk.css.map",
+    "static/js/2.1ea2f8b5.chunk.js.LICENSE.txt": "/static/js/2.1ea2f8b5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Gotham-Bold.f9a5c924.otf",
+    "static/media/cover1.ba891a4b.png": "/static/media/cover1.ba891a4b.png",
+    "static/media/cover2.079a3dda.png": "/static/media/cover2.079a3dda.png",
+    "static/media/cover3.51d39273.png": "/static/media/cover3.51d39273.png",
+    "static/media/logo.b391fca8.png": "/static/media/logo.b391fca8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.980c8fdd.js",
+    "static/js/runtime-main.641bf879.js",
     "static/js/2.1ea2f8b5.chunk.js",
-    "static/css/main.9fdf2061.chunk.css",
+    "static/css/main.81ab8b3f.chunk.css",
     "static/js/main.78fd7654.chunk.js"
   ]
 }
