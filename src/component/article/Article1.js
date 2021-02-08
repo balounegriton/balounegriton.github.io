@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Anim1 from "../Animation/Amin1.js";
 
 class Aticle1 extends Component {
   constructor() {
@@ -17,9 +18,13 @@ class Aticle1 extends Component {
           <div className="texte">
             16.08.2020
         </div>
+        <div className="texte2">
+           scroll down
+        </div>
         </div>
         <div className="vide">
-allo
+allobouzintai
+{!this.state.logo &&<Anim1 />}
         </div>
       </div>
     )
